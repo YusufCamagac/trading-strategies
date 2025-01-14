@@ -1,0 +1,6 @@
+ml/
+notes/
+trading_bot/
+trading_st/
+!genome_p1.py
+512_load_ml.py
